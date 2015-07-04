@@ -30,4 +30,20 @@
     
   </entry>
   
+  <entry>
+    <title><![CDATA[第一篇文章]]></title>
+    <link href="http://michaelyoujingmao.github.io/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://michaelyoujingmao.github.io/post/第一篇文章/</id>
+    <published>2015-07-03T23:26:09.000Z</published>
+    <updated>2015-07-04T09:06:51.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="第一篇文章">第一篇文章</h1><h2 id="Overview">Overview</h2><p>第一篇写在自己博客的文章，仅供测试。</p>
+<h4 id="Strong_and_Emphasize">Strong and Emphasize</h4><p>尝试所谓的<strong>加重</strong>和<em>强调</em></p>
+<h3 id="就这样吧，哈哈">就这样吧，哈哈</h3>]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="第一篇文章">第一篇文章</h1><h2 id="Overview">Overview</h2><p>第一篇写在自己博客的文章，仅供测试。</p>
+<h4 id="Strong_and_Emphasize">Strong and Emphasize</h4><p>]]>
+    </summary>
+    
+  </entry>
+  
 </feed>
